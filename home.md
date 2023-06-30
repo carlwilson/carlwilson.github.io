@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Carl's Home Page"
-permalink: /home
+title: "Carl's GitHub Pages Home Page"
+permalink: /
 ---
 # Home page
