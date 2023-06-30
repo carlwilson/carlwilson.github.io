@@ -30,7 +30,7 @@ The `layout` key selects the layout of your page. The standard set is:
 - page
 - post
 
-The `title` key is self-explanatory. The `permalink` key gives the page's URL within the the site, in this case, the root, `/`.
+The `title` key is self-explanatory. The `permalink` key gives the page's URL within the site, in this case, the root, `/`.
 
 ## Ideas for Improving this Page
 
