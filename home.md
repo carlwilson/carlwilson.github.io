@@ -1,5 +1,5 @@
 layout: page
-title: "PAGE-TITLE"
+title: "Carl's Home Page"
 permalink: /
 ---
 # Home page
