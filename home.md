@@ -37,5 +37,5 @@ The `title` key is self-explanatory. The `permalink` key gives the page's URL wi
 You can even use Markdown to create simple task lists.
 
 - [ ] Add some Markdown references to the page
-- [ ] The site could look nicer
+- [x] The site could look nicer
 - [ ] An about me section wouldn't hurt
