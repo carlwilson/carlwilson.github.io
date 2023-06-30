@@ -32,6 +32,14 @@ The `layout` key selects the layout of your page. The standard set is:
 
 The `title` key is self-explanatory. The `permalink` key gives the page's URL within the the site, in this case, the root, `/`.
 
+## About me
+
+My name is Carl Wilson, and I'm the Technical Lead at the [Open Preservation Foundation](https://openpreservation.org/).
+
+- My GitHub profile is here: <https://github.com/carlwilson>
+
+You can get in touch by email: <carl@openpreservation.org>
+
 ## Ideas for Improving this Page
 
 You can even use Markdown to create simple task lists.
