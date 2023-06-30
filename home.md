@@ -46,4 +46,4 @@ You can even use Markdown to create simple task lists.
 
 - [ ] Add some Markdown references to the page
 - [x] The site could look nicer
-- [ ] An about me section wouldn't hurt
+- [x] An about me section wouldn't hurt
