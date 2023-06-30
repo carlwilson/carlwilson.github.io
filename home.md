@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "Carl's Home Page"
-permalink: /
+permalink: /home
 ---
 # Home page
