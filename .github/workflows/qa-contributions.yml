@@ -1,0 +1,27 @@
+# The name of the workflow
+name: QA Text Contributions
+
+# Name given for executions of this workflow
+run-name: ${{ github.actor }}’s QA workflow
+
+# Lists the possible triggers for this workflow
+on:
+  # Triggered by a Pull Request (contribution)
+  pull_request:
+    # Run when the PR is open or changed
+    types:
+      - opened
+      - synchronize
+      - reopened
+  workflow_dispatch:
+
+# Group the workflow jobs that run
+jobs:
+  qa-text:
+    name: Quality assure text contributions
+    # Select the OS for the VM
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout the contribution
+      - name: Checkout project
+        uses: actions/checkout@v3
