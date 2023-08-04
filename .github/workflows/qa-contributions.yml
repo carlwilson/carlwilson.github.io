@@ -31,3 +31,4 @@ jobs:
         with:
           language: "en-GB"
           quiet: true
+          dictionaries: ".dictionary.txt"
